@@ -65,7 +65,6 @@ public class AutorService implements BaseService<Autor> {
 			Autor autor = entidadOpcional.get();
 			autor = autorRepository.save(entity);
 			return autor;
-			/*Cuando haces un put, el JSON debe ir ademas del id en el @PathVariable, se lo tenes que mandar en la consulta como "id" : 1 (ejemplo)*/
 		} catch (Exception e) {
 			throw new Exception(e.getMessage());
 		}
