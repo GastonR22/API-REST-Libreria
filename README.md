@@ -1,5 +1,5 @@
 # API-REST-Libreria
-API REST desarrollada a modo de prueba para aprender los conceptos enseñados en clases, siguiendo los tutoriales que fueron enviados por el profesor.   
+API REST desarrollada a modo de prueba para aprender los conceptos enseñados en clases, siguiendo los tutoriales que fueron enviados por el profesor.      
 La programacion se realizo con el IDE Spring Tools Suite , el sistema gestor de bases de datos utilizado fue SQLyog, la herramienta Postman que nos permite hacer peticiones HTTP a nuestra API y Xampp para poder levantar un servidor local. Da uso al puerto 9001, y crea una base de datos llamada db_prueabaapi. Esta API fue desarrollada a partir del sigiuente diagrama:
 
 ![](diagramaAPI.jpg)
